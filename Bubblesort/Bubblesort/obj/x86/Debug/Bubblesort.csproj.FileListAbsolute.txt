@@ -1,0 +1,10 @@
+C:\Users\Ken\Desktop\Bubblesort\Bubblesort\bin\Debug\Bubblesort.exe
+C:\Users\Ken\Desktop\Bubblesort\Bubblesort\bin\Debug\Bubblesort.pdb
+C:\Users\Ken\Desktop\Bubblesort\Bubblesort\obj\x86\Debug\Bubblesort.exe
+C:\Users\Ken\Desktop\Bubblesort\Bubblesort\obj\x86\Debug\Bubblesort.pdb
+C:\Users\Ken\Desktop\Bubblesort\Bubblesort\obj\x86\Debug\Bubblesort.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\GitHub\Sorting-Algorithms\Bubblesort\Bubblesort\obj\x86\Debug\Bubblesort.exe
+C:\Users\Eric\Desktop\GitHub\Sorting-Algorithms\Bubblesort\Bubblesort\obj\x86\Debug\Bubblesort.pdb
+C:\Users\Eric\Desktop\GitHub\Sorting-Algorithms\Bubblesort\Bubblesort\bin\Debug\Bubblesort.exe
+C:\Users\Eric\Desktop\GitHub\Sorting-Algorithms\Bubblesort\Bubblesort\bin\Debug\Bubblesort.pdb
+C:\Users\Eric\Desktop\GitHub\Sorting-Algorithms\Bubblesort\Bubblesort\obj\x86\Debug\Bubblesort.csprojResolveAssemblyReference.cache

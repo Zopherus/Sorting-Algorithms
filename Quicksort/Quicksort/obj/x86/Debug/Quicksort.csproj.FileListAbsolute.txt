@@ -1,0 +1,10 @@
+C:\Users\Ken\Desktop\Quicksort\Quicksort\bin\Debug\Quicksort.exe
+C:\Users\Ken\Desktop\Quicksort\Quicksort\bin\Debug\Quicksort.pdb
+C:\Users\Ken\Desktop\Quicksort\Quicksort\obj\x86\Debug\Quicksort.csprojResolveAssemblyReference.cache
+C:\Users\Ken\Desktop\Quicksort\Quicksort\obj\x86\Debug\Quicksort.exe
+C:\Users\Ken\Desktop\Quicksort\Quicksort\obj\x86\Debug\Quicksort.pdb
+C:\Users\Eric\Desktop\GitHub\Sorting-Algorithms\Quicksort\Quicksort\obj\x86\Debug\Quicksort.exe
+C:\Users\Eric\Desktop\GitHub\Sorting-Algorithms\Quicksort\Quicksort\obj\x86\Debug\Quicksort.pdb
+C:\Users\Eric\Desktop\GitHub\Sorting-Algorithms\Quicksort\Quicksort\bin\Debug\Quicksort.exe
+C:\Users\Eric\Desktop\GitHub\Sorting-Algorithms\Quicksort\Quicksort\bin\Debug\Quicksort.pdb
+C:\Users\Eric\Desktop\GitHub\Sorting-Algorithms\Quicksort\Quicksort\obj\x86\Debug\Quicksort.csprojResolveAssemblyReference.cache
