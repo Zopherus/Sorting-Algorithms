@@ -1,0 +1,6 @@
+C:\Users\Eric\Desktop\Insertion Sort\Insertion Sort\bin\Debug\Insertion Sort.exe.config
+C:\Users\Eric\Desktop\Insertion Sort\Insertion Sort\bin\Debug\Insertion Sort.exe
+C:\Users\Eric\Desktop\Insertion Sort\Insertion Sort\bin\Debug\Insertion Sort.pdb
+C:\Users\Eric\Desktop\Insertion Sort\Insertion Sort\obj\Debug\Insertion Sort.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\Insertion Sort\Insertion Sort\obj\Debug\Insertion Sort.exe
+C:\Users\Eric\Desktop\Insertion Sort\Insertion Sort\obj\Debug\Insertion Sort.pdb
